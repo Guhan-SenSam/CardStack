@@ -35,8 +35,8 @@ python main.py
 ```
 ### Pictures
 This is the widget using default app theme colors.
-![CardStack]/pictures/1.png
-![CardStack Animated]/pictures/2.gif
+! [CardStack] (/pictures/1.png)
+! [CardStack Animated] (/pictures/2.gif)
 
 
 ### Support
